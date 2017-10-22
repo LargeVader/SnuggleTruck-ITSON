@@ -4,4 +4,16 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_ProjectCompleted/Scenes/Menu.unity
+    guid: 113e6eefc2c73814491153d0ab2ddb47
+  - enabled: 1
+    path: Assets/Scenes/MainGame_SnuggleTruck_Completed.unity
+    guid: 6973841a88cf4ab418a80207fe28cfce
+  - enabled: 1
+    path: Assets/Scenes/MainGame_PC.unity
+    guid: e6d41a4f57dc0334998c66000bd7b18d
+  - enabled: 1
+    path: Assets/Scenes/MainGame_Android.unity
+    guid: 27aaee664de02c74eaf56a3ee52bea06
